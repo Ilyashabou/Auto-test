@@ -1,5 +1,0 @@
-playwright
-requests
-beautifulsoup4
-jinja2
-pillow
